@@ -1,4 +1,9 @@
+# Repositorio de Prueba Técnica
+## Autor: Ariel Ríos
+
+## Contacto: arturi.marking@gmail.com
 # Introducción
+
 Este repositorio contine una seríe de respuestas, para la revisón técnica. Se utiliza este sistema de repositorio para almacenar la doucmentación y el código utilizado.
 
 La secciones se divirán en diferentes carpetas diviendo andole una estructura a las respuestas que se presenta a continuación.
