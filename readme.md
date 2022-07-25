@@ -4,16 +4,16 @@ Este repositorio contine una seríe de respuestas, para la revisón técnica. Se
 La secciones se divirán en diferentes carpetas diviendo andole una estructura a las respuestas que se presenta a continuación.
 
 ### Respuestas relacionadas a SQL
-[Ir a las Respuestas](sql/question_answer_db.md).
+[Ir a las Respuestas](sql/answer_sql.md).
 
 ### Scripts relacionadas a LINQ
-[Ir a los Scripts](poo/question_answer_db.md).
+[Ir a los Scripts](linq/script_linq.cs).
 
 ### Respuestas relacionadas a Programación Orientada a Objetos con C#
-[Ir a las Respuestas](poo/question_answer_db.md).
+[Ir a las Respuestas](poo/answer_poo.md).
 
 ### Respuestas relacionadas a Angular
-[Ir a las Respuestas](sql/question_answer_db.md).
+[Ir a las Respuestas](angular/answer_ng.md).
 
 ### Resolución a ejercicio de la Sopa de Letra
-[Ir al código](sql/question_answer_db.md).
+[Ir al código](alphabet-soup/main.py).
