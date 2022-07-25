@@ -47,12 +47,12 @@ La diferencia es que la llave primaria es el identificador único para cada regi
 
 Un inner join relaciona dos tablas, trayendo todos los campos de estas tablas, cuando una condición de relación se cumpla. Dado un conjunto universal, tenemos un cojunto A y B un inner join es el conjunto formado por todos los elementos formados por todos los elementos comunes, es decir los conjuntos que son comunes al conjunto A y B.
 
-![Imagen de conjunto 1](assets/sql-2.png)
+![Imagen de conjunto 1](/assets/sql-2.png)
 
 
 Con respecto al left join es la relación de dos tablas siempre y cuando se cumpla la condición, pero este traerá todos los registros de la tabla de la izquierda y únicamente aquellos registros que cumplan con la condición de relación con la otra tabla.
 
-![Imagen de conjunto](assets/sql-1.png)
+![Imagen de conjunto](/assets/sql-1.png)
 
 Diferencia consiste en que uno traera todos los campos de ambos conjuntos que cumplan la condición y en otro solo traera los campos de la tabla del conjunto de la izquierda.
 
