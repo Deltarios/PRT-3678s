@@ -37,3 +37,12 @@ Podemos utilizar este tipo de dato para almacenar información de forma binaría
 
 Cabe resaltar que es un resumen, y cada tipo podría contener otros subtipos, pero no se toca o se explorá para mantener la respuesta simple.
 
+## 4.	¿Qué diferencia tiene una llave primaria y una llave foránea?
+
+Para poder relacionar tables, debemos poder identificar cada uno de los registros de manera única. No podemos realizar esto debido a que podríamos tener registros duplicados.
+
+Las llaves primarias permiten identificar de manera única cada uno de los registros de una tabla. Se puede utilizar un registro que nunca se repita. Es usual que se le añada un campo adicional del identificador de tipo entero que se incrementa en uno cada nuevo registro.
+
+Para las llaves foroneas, representan la relación que pudiera haber entre dos tablas.
+
+La diferencia es que la llave primaria es el identificador único para cada registro de una tabla y la llave foránea es para establecer la relación entre una Tabla A y otra Table B.
