@@ -1,8 +1,4 @@
-# Introducción
-Este repositorio contine una seríe de respuestas, para la revisón técnica. Se utiliza este sistema de repositorio para almacenar la doucmentación y el código utilizado.
-
-En esta sección vamos almacenar las respuestas a las preguntas de la 1 a la 6.
-
+# RESPUESTAS RELACIONADAS A SQL
 
 ## 1.	Describa qué es una base de datos relacional.
 
@@ -59,3 +55,13 @@ Con respecto al left join es la relación de dos tablas siempre y cuando se cump
 ![Imagen de conjunto](assets/sql-1.png)
 
 Diferencia consiste en que uno traera todos los campos de ambos conjuntos que cumplan la condición y en otro solo traera los campos de la tabla del conjunto de la izquierda.
+
+## 6.	¿Para qué funcionan los índices y qué tipos de índices conoces?
+
+Nos sirven para acelerar las busquedas dado que permite la busqueda rápida y eficiente de la fila o filas asociadas a los valores de cada clave. Cuando creamos indices el motor de base de datos, va primero al indice y luego recupera los correspondientes registros de la tabla directamente
+
+Conozco dos tipos de indices:
+
+- Agrupados
+
+- No agrupados
