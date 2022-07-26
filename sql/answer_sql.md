@@ -78,4 +78,4 @@ Para esta respuesta se creo el script de SQL que se puede consultar en la siguie
 
 
 ### Haga click para Regresar al inicio
-[Ir al inicio](../readme.md)
+[Ir al inicio](../README.md)
