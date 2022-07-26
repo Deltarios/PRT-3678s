@@ -28,3 +28,5 @@ Dependiendo del modulo o utilería se procedería a analizar o investigar al res
 2. Intalación mediante NPM u cualquier gestionador de paquetes.
 3. Integrar el modulo o utilería a nuestro modulo donde será utilizado. Si se desea que sea utilizado de forma global, se podría integrar al modulo prinicipal. Si se requiere un modulo en especifico, se integra a ese modulo.
 
+### Haga click para Regresar al inicio
+[Ir al inicio](../README.md)

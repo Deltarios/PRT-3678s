@@ -188,3 +188,6 @@ void main(List<String> args) {
 4. Cadena de String (string): Almacenar cadenas de caracteres como el nombre de usuario o correo electrónico.
 
 5. object: Para almacenar objectos simples o complejos integrados dentro del código de C# pues es la clase base. Lo usaría para almacenar un tipo generico que necesite una método.
+
+### Haga click para Regresar al inicio
+[Ir al inicio](../README.md)

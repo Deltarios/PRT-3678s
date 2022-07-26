@@ -76,3 +76,6 @@ Para esta respuesta se creo el script de SQL que se puede consultar en la siguie
 
 [Ir al Script de respuesta #8](/sql/answer_sql.sql)
 
+
+### Haga click para Regresar al inicio
+[Ir al inicio](../README.md)
