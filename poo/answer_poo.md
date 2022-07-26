@@ -190,4 +190,4 @@ void main(List<String> args) {
 5. object: Para almacenar objectos simples o complejos integrados dentro del código de C# pues es la clase base. Lo usaría para almacenar un tipo generico que necesite una método.
 
 ### Haga click para Regresar al inicio
-[Ir al inicio](../README.md)
+[Ir al inicio](../readme.md)
