@@ -70,9 +70,9 @@ Conozco dos tipos de indices:
 
 Para esta respuesta se creo el script de SQL que se puede consultar en la siguiente liga:
 
-[Ir al Script de respuesta #7](sql/answer_sql.sql)
+[Ir al Script de respuesta #7](/sql/answer_sql.sql)
 
 ## 8.	Realice una consulta que determine si este mismo usuario tiene algún permiso que inicie con el nombre “/catalogs”. Se determinará que tiene el permiso, si el resultado de la consulta trae al menos un registro.
 
-[Ir al Script de respuesta #8](sql/answer_sql.sql)
+[Ir al Script de respuesta #8](/sql/answer_sql.sql)
 
