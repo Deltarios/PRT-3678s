@@ -35,4 +35,5 @@ class AlphabetSoup:
 
     def insert_words(self, soup: List, word: List[Word]) -> List:
         coordinates: List = []
+        
         pass 
