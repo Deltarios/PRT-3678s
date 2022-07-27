@@ -21,4 +21,4 @@ La secciones se divirán en diferentes carpetas diviendo andole una estructura a
 [Ir a las Respuestas](./angular/answer_ng.md)
 
 ### Resolución a ejercicio de la Sopa de Letra
-[Ir al código](./alphabet-soup/main.py)
+[Ir al código](./alphabet-soup/README.md)
