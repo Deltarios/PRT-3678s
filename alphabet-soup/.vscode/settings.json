@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./alphabet-soup/Models",
+        "./alphabet-soup/Enum"
+    ]
+}
