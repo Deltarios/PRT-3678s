@@ -7,6 +7,27 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br>
 ![Mantenimiento: Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
 
+# Estructura de Proyecto
+```bash
+│   main.py
+│   README.md
+│   requirements.txt
+│   __init__.py
+├───src
+    |───app
+        |───Data
+        |   |───Enum
+        |       |   __init__.py
+        |       |   Position.py
+        |───Data
+            |───Enum
+                |   __init__.py
+                |   AlphabetSoup.py
+                |   Word.py
+├───Utils
+    │   __init__.py
+```
+
 ## Para levantar este proyecto
 Nos tenemos que posicionar en la carpeta [alphabet-soup](../alphabet-soup).
 
