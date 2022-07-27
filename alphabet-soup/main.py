@@ -11,7 +11,7 @@ def main():
     Word(word='Canguro', position= Position.HORIZONTAL), 
     Word(word='Jirafa', position= Position.DIAGONAL)
     ]
-    totalWord: int = sum(c.lenght for c in words)
+    sizeMinimum: int = sum(c.lenght for c in words)
     # Creamos nuestro objecto con las palabras y el tamaño deseado.
     alphabetSoup = AlphabetSoup(words=words, size=15)
     print('Busque las siguientes parabaras en la sopa de letras siguiente:')
