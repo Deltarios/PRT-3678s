@@ -47,3 +47,7 @@ python main.py
 
 ### Debugger
 Para vscode, se puede revisar la configuración de los debugger (python) por si se quiere implementar, esto se encuentran [aquí](.vscode/launch.json)
+
+### Ejemplo de funcionamiento:
+
+![Imagen de conjunto](../assets/example-code-alphabet-soup.png)
