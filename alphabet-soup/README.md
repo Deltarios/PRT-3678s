@@ -51,3 +51,5 @@ Para vscode, se puede revisar la configuración de los debugger (python) por si 
 ### Ejemplo de funcionamiento:
 
 ![Imagen de conjunto](../assets/example-code-alphabet-soup.png)
+
+## Se deja a continuación el diagrama de flujo de este proyecto:

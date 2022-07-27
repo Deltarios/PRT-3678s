@@ -11,15 +11,15 @@ class AlphabetSoup:
     size: int
     words: List[Word]
 
-    def __init__(self, words: List[Word], size: int = 10) -> None:
+    def __init__(self, words: List[Word], size: int = 15) -> None:
         """Contructor para la clase AlphabetSoup.
 
         Args:
             words (List[Word]): Lista de palabras
-            size (int, optional): Tamaño de la matriz de letras. Defaults to 10.
+            size (int, optional): Tamaño de la matriz de letras. Defaults to 15.
         """        
         self.words = words
-        self.size = 10 if size <= 0  else size
+        self.size = 15 if size <= 0  else size
 
     def remplace_letter(self, letter: int) -> int:
         """Método para remplazar una letra por otra, cuando se encuentra O -> 0, I -> 1.
