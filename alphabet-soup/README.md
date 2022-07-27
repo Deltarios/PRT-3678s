@@ -19,8 +19,7 @@
         |   |───Enum
         |       |   __init__.py
         |       |   Position.py
-        |───Data
-            |───Enum
+            |───Models
                 |   __init__.py
                 |   AlphabetSoup.py
                 |   Word.py
