@@ -33,7 +33,7 @@ def main():
     # Creamos nuestro objecto con las palabras y el tamaño deseado.
     sizeMinimum: int = check_size_matrix(words)
     alphabetSoup = AlphabetSoup(words=words, size=sizeMinimum)
-    print('Busque las siguientes parabaras en la sopa de letras siguiente:')
+    print('Busque las siguientes palabras en la sopa de letras siguiente:')
     print(','.join(w.word_raw for w in words))
     # Dibujamos nuestra sopa de letras.
     alphabetSoup.draw_soup()
